@@ -29,18 +29,18 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Madrid, España"
 author = "Perfume Man"
 author_image = "images/banner-img.png"
 bio = ""
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2021 PerfumeAwards.com"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "andres@perfume-man.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = "+34 655 553 456"
 preloader = true
 search = true
 [params.cookies]
