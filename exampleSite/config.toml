@@ -10,12 +10,12 @@ hasChildren = true
 name = "Español"
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
+name = "Español"
 parent = "Español"
 url = "homepage/home-1"
 weight = 1
 [[menu.main]]
-name = "Homepage 2"
+name = "English"
 parent = "Español"
 url = "homepage/home-2"
 weight = 2
