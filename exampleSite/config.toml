@@ -8,24 +8,25 @@ title = "Perfume Awards"
 [[menu.main]]
 hasChildren = true
 name = "Español"
-url = ""
 weight = 1
 [[menu.main]]
 name = "Español"
-parent = "Homepage"
+parent = "Español"
 url = "homepage/home-1"
+weight = 1
 [[menu.main]]
 name = "English"
-parent = "Homepage"
+parent = "Español"
 url = "homepage/home-2"
-[[menu.main]]
-name = "About"
-url = "about"
 weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
