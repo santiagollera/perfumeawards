@@ -1,14 +1,11 @@
 ---
-title: Charming Evening Field
+title: El premio
 date: '2019-05-14T14:46:10.000+06:00'
-description: This is meta description
+description: El trofeo
 type: post
-image: images/masonary-post/post-7.jpg
-categories:
-- Food
-tags:
-- Photos
-- Food
+image: "/images/premio.jpg"
+categories: []
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
