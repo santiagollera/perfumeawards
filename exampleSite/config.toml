@@ -11,7 +11,7 @@ name = "Español"
 url = ""
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
+name = "Español"
 parent = "Homepage"
 url = "homepage/home-1"
 [[menu.main]]
