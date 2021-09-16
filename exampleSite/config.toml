@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "JSON"]
 address = "Madrid, España"
 author = "Perfume Man"
 author_image = "images/banner-img.png"
-bio = ""
+bio = "The best perfume of the year"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2021 PerfumeAwards.com"
 description = "This is meta description"
@@ -75,14 +75,15 @@ link = "plugins/smooth-scroll/smooth-scroll.js"
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/AndresPerfumeMan"
 [[params.social]]
-icon = "ti-instagram"
-link = "https://www.instagram.com/andresperfumeman/"
+icon = "ti-twitter-alt"
+link = "#"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/c/AndresPerfumeMan"
