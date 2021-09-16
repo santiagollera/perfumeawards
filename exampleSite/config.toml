@@ -79,11 +79,8 @@ link = "plugins/search/mark.js"
 icon = "ti-facebook"
 link = "https://www.facebook.com/AndresPerfumeMan"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/andresperfumeman/?hl=es"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/c/AndresPerfumeMan"
