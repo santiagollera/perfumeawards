@@ -6,22 +6,22 @@ summaryLength = "10"
 theme = "san"
 title = "Perfume Awards"
 [[menu.main]]
-hasChildren = true
-name = "Language"
-weight = 1
+name = "English"
+parent = "Language"
+url = "#"
+weight = 2
 [[menu.main]]
 name = "Español"
 parent = "Language"
 url = "homepage/home-1"
 weight = 1
 [[menu.main]]
-name = "English"
-parent = "Language"
-url = "#"
-weight = 2
+hasChildren = true
+name = "Language"
+weight = 1
 [[menu.main]]
 name = "Votar"
-url = "contact"
+url = "https://dg1c1dc66iq.typeform.com/to/a6BXmJeo"
 weight = 3
 [[menu.main]]
 name = "Acerca de"
