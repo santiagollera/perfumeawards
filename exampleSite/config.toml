@@ -7,7 +7,7 @@ theme = "parsa-hugo"
 title = "Perfume Awards"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Español"
 url = ""
 weight = 1
 [[menu.main]]
