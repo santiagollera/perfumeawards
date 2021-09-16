@@ -1,13 +1,11 @@
 ---
-title: Chanel No5
+title: Nishane
 date: '2019-05-14T14:46:10.000+06:00'
-description: This is meta description
+description: Nishane Paris
 type: featured
-image: images/featured-post/post-3.jpg
-categories:
-- Fashion
-tags:
-- Fashion
+image: "/images/nishane.jpg"
+categories: []
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
