@@ -7,26 +7,25 @@ theme = "san"
 title = "Perfume Awards"
 [[menu.main]]
 hasChildren = true
-name = "Español"
+name = "Language"
+url = ""
 weight = 1
 [[menu.main]]
 name = "Español"
-parent = "Español"
+parent = "Homepage"
 url = "homepage/home-1"
-weight = 1
 [[menu.main]]
 name = "English"
-parent = "Español"
+parent = "Homepage"
 url = "homepage/home-2"
+[[menu.main]]
+name = "About"
+url = "about"
 weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 3
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
