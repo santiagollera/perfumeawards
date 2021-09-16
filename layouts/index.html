@@ -13,7 +13,7 @@
             <div class="card-content">
               <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
               <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+              <a class="btn btn-outline-light" href="{{.Permalink}}">Ver</a>
             </div>
           </div>
         </article>
@@ -88,8 +88,7 @@
           </div>
           <div class="post-content">
             <ul class="list-inline d-flex justify-content-between border-bottom post-meta pb-2 mb-4">
-              <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
-              <li class="list-inline-item"><i class="ti-alarm-clock mr-2"></i><span class="eta"></span> read</li>
+            <li class="list-inline-item"><i class="ti-alarm-clock mr-2"></i><span class="eta"></span> read</li>
             </ul>
             <h4 class="mb-4"><a href="{{.Permalink}}" class="text-dark">{{ .Title }}</a></h4>
             <p class="mb-0 post-summary">{{.Summary }}</p>
