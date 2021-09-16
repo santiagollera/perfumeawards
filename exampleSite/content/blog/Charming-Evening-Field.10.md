@@ -1,14 +1,11 @@
 ---
 title: Base de Datos
 date: '2019-05-14T14:46:10.000+06:00'
-description: This is meta description
+description: Bases de Datos
 type: post
 image: "/images/base-datos.jpg"
-categories:
-- Food
-tags:
-- Photos
-- Food
+categories: []
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
