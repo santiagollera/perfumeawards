@@ -6,19 +6,6 @@ summaryLength = "10"
 theme = "san"
 title = "Perfume Awards"
 [[menu.main]]
-hasChildren = true
-name = "Language"
-url = ""
-weight = 1
-[[menu.main]]
-name = "Español"
-parent = "Homepage"
-url = "homepage/home-1"
-[[menu.main]]
-name = "English"
-parent = "Homepage"
-url = "#"
-[[menu.main]]
 name = "About"
 url = "about"
 weight = 2
