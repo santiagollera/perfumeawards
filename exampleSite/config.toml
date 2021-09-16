@@ -41,7 +41,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = "+34 655 553 456"
-preloader = true
+preloader = false
 search = false
 [params.cookies]
 enable = true
