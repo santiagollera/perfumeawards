@@ -3,7 +3,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
 summaryLength = "10"
-theme = "parsa-hugo"
+theme = "san"
 title = "Perfume Awards"
 [[menu.main]]
 hasChildren = true
